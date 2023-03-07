@@ -7,7 +7,7 @@ export interface FrontMatter {
 	lastmod: string;
 }
 export const fetchPosts = async () => {
-	const allPostFiles = import.meta.glob('/src/routes/blog/*.svx');
+	const allPostFiles = import.meta.glob('/src/blog/*.svx');
 	const iterablePostFiles = Object.entries(allPostFiles);
 
 	const allPosts = await Promise.all(
@@ -15,7 +15,7 @@ export const fetchPosts = async () => {
 			const {metadata} = (await resolver()) as {
 				metadata: FrontMatter;
 			};
-			const postPath = path.slice(11, -4);
+			const postPath = path.slice(5, -4);
 
 			return {
 				meta: metadata,
@@ -28,7 +28,7 @@ export const fetchPosts = async () => {
 };
 
 export const fetchArticles = async () => {
-	const allPostFiles = import.meta.glob('/src/routes/articles/*.svx');
+	const allPostFiles = import.meta.glob('/src/articles/*.svx');
 	const iterablePostFiles = Object.entries(allPostFiles);
 
 	const allPosts = await Promise.all(
@@ -36,7 +36,7 @@ export const fetchArticles = async () => {
 			const {metadata} = (await resolver()) as {
 				metadata: FrontMatter;
 			};
-			const postPath = path.slice(11, -4);
+			const postPath = path.slice(5, -4);
 
 			return {
 				meta: metadata,

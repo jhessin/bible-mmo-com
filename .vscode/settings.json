@@ -16,5 +16,15 @@
 		"editor.lineHeight": 26,
 		"editor.wordWrap": "wordWrapColumn",
 		"editor.wordWrapColumn": 64
-	}
+	},
+	"frontMatter.content.pageFolders": [
+		{
+			"title": "Articles",
+			"path": "[[workspace]]/src/articles"
+		},
+		{
+			"title": "Blog",
+			"path": "[[workspace]]/src/blog"
+		}
+	]
 }
