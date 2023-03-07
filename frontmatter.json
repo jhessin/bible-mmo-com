@@ -42,11 +42,6 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
-        },
-        {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
         }
       ]
     }
@@ -55,16 +50,16 @@
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.autoUpdateDate": true,
   "frontMatter.content.defaultFileType": "svx",
-  "frontMatter.content.hideFm": true,
+  "frontMatter.content.hideFm": false,
   "frontMatter.content.pageFolders": [
-    {
-      "title": "articles",
-      "path": "[[workspace]]/src/routes/articles"
-    },
-    {
-      "title": "blog",
-      "path": "[[workspace]]/src/routes/blog"
-    }
+		{
+			"title": "Articles",
+			"path": "[[workspace]]/src/articles"
+		},
+		{
+			"title": "Blog",
+			"path": "[[workspace]]/src/blog"
+		}
   ],
   "frontMatter.content.supportedFileTypes": [
     "md",

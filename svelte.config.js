@@ -1,5 +1,7 @@
 import adapter from '@sveltejs/adapter-auto';
 import {mdsvex} from 'mdsvex';
+import slug from 'rehype-slug';
+import toc from 'rehype-toc';
 import sveltePreprocess from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -10,6 +12,8 @@ const config = {
 	preprocess: [
 		sveltePreprocess(),
 		mdsvex({
+			// remarkPlugins: [gfm],
+			rehypePlugins: [slug, toc],
 			// extensions: ['.md'],
 			// layout: {
 			// 	blog: '/src/routes/blog/post.svelte',
@@ -24,6 +28,7 @@ const config = {
 		adapter: adapter(),
 		alias: {
 			'articles/*': 'src/articles/*',
+			'blog/*': 'src/blog/*',
 		},
 	},
 };

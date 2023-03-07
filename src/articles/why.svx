@@ -4,18 +4,28 @@ description: This article enumerates the main reasons that we need to create a C
   MMO based on the bible.
 date: 2023-03-07T15:41:58.731Z
 preview: ""
-draft: false
+draft: true
 tags:
   - articles
 categories: ""
-lastmod: 2023-03-07T16:43:46.278Z
+lastmod: 2023-03-07T19:15:27.352Z
 ---
-___
+<hr />
 
-I have been thinking alot about this and there are a number of reasons that I believe we need a bible MMO. 
+# The need for Biblical games
 
-# 1 - Outreach
+I have been thinking a lot about this and there are a number of reasons that I believe we need a bible MMO. 
+
+## Outreach
 
 The obvious first answer is outreach. There is a large population of gamers out there that completely dismiss Christianity as a whole because the traditional teachings don't make any sense. 
 
-This is primarily the reason WE (as [Spirit and Truth](https://spiritandtruthonline.org/)) should be the ones to create this game. So many people out there have never heard the unadulterated TRUTH of scripture.
+This is primarily the reason WE (as [Spirit and Truth](https://spiritandtruthonline.org/)) should be the ones to create this game. So many people out there have never heard the unadulterated TRUTH of scripture. The fact that it actually makes sense if you take out all the extra baggage that the majority of the churches of today put on it.
+
+With that in mind I would like to make this game sly as a serpent in that we will call it *__The Book__*. (That's what Bible _means_ after all). The story is that you, as the player, are sucked into a book and must find your way out by traveling through the lands it describes. I'll talk more on this later but it really is an exciting idea!
+
+## Research
+
+Let's face it - reading can get tedious. There is a reason that games are popular and that is that they are FUN! I have watched my wife help our kids with their homework enough to know that if you can make learning fun you can do it for much longer and retain the information much better. If we can port this to the bible then it will benefit everyone!
+
+Imagine you want to study the wilderness that the Israelites walked through. You could look through countless Bible Atlases and get some idea of the kind of area they walked, or you could log in and walk the path __WITH__ them!
