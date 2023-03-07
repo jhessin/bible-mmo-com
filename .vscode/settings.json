@@ -1,0 +1,14 @@
+{
+	"files.exclude": {
+		"**/.DS_Store": true,
+		"**/node_modules": true,
+		"build": true,
+		".svelte-kit": true,
+		"package": true,
+		"**/.env": true,
+		"**/.env.*": true,
+		"**/.env.example": false,
+		"**/vite.config.js.timestamp-*": true,
+		"**/vite.config.ts.timestamp-*": true
+	}
+}
