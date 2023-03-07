@@ -10,5 +10,11 @@
 		"**/.env.example": false,
 		"**/vite.config.js.timestamp-*": true,
 		"**/vite.config.ts.timestamp-*": true
+	},
+	"[markdown]": {
+		"editor.fontSize": 14,
+		"editor.lineHeight": 26,
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.wordWrapColumn": 64
 	}
 }

@@ -4,16 +4,16 @@ import sveltePreprocess from 'svelte-preprocess';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	extensions: ['.svelte', '.md'],
+	extensions: ['.svelte', '.svx'],
 	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
 	// for more information about preprocessors
 	preprocess: [
 		sveltePreprocess(),
 		mdsvex({
-			extensions: ['.md'],
-			layout: {
-				blog: '/src/routes/blog/post.svelte',
-			},
+			// extensions: ['.md'],
+			// layout: {
+			// 	blog: '/src/routes/blog/post.svelte',
+			// },
 		}),
 	],
 
