@@ -1,0 +1,7 @@
+<svelte:head>
+	<title>BibleMMO: Contact</title>
+</svelte:head>
+
+# Get in touch!
+
+[Jim Hessin](mailto:jhessin@gmail.com)

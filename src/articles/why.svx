@@ -8,15 +8,17 @@ draft: true
 tags:
   - articles
 categories: ""
-lastmod: 2023-03-07T19:15:27.352Z
+lastmod: 2023-03-07T19:35:29.406Z
 ---
 <hr />
 
-# The need for Biblical games
+# Table of contents
+
+<hr />
 
 I have been thinking a lot about this and there are a number of reasons that I believe we need a bible MMO. 
 
-## Outreach
+# Outreach
 
 The obvious first answer is outreach. There is a large population of gamers out there that completely dismiss Christianity as a whole because the traditional teachings don't make any sense. 
 
@@ -24,7 +26,7 @@ This is primarily the reason WE (as [Spirit and Truth](https://spiritandtruthonl
 
 With that in mind I would like to make this game sly as a serpent in that we will call it *__The Book__*. (That's what Bible _means_ after all). The story is that you, as the player, are sucked into a book and must find your way out by traveling through the lands it describes. I'll talk more on this later but it really is an exciting idea!
 
-## Research
+# Research
 
 Let's face it - reading can get tedious. There is a reason that games are popular and that is that they are FUN! I have watched my wife help our kids with their homework enough to know that if you can make learning fun you can do it for much longer and retain the information much better. If we can port this to the bible then it will benefit everyone!
 

@@ -33,6 +33,6 @@
 	"type": "module",
 	"dependencies": {
 		"rehype-slug": "^5.1.0",
-		"rehype-toc": "^3.0.2"
+		"remark-toc": "^8.0.1"
 	}
 }

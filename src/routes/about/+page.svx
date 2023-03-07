@@ -1,0 +1,11 @@
+---
+date: 2023-03-07T19:37:01.563Z
+title: About Bible MMO
+---
+<svelte:head>
+	<title>BibleMMO: About</title>
+</svelte:head>
+
+# Hi, I'm Jim!
+
+This is my about page.

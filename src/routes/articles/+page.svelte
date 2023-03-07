@@ -6,6 +6,10 @@
 	const {posts} = data;
 </script>
 
+<svelte:head>
+	<title>BibleMMO: Articles</title>
+</svelte:head>
+
 <h1>Articles</h1>
 
 <ul>
