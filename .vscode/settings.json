@@ -17,8 +17,9 @@
 		"editor.wordWrap": "wordWrapColumn",
 		"editor.wordWrapColumn": 64,
 		"editor.lineNumbers": "off",
-		"editor.quickSuggestions": false,
 		"editor.minimap.enabled": false
 	},
-	"cSpell.words": ["lastmod"]
+	"cSpell.words": ["lastmod"],
+	"cSpell.enableFiletypes": ["svelte", "svx"],
+	"cSpell.language": "en,en-US"
 }
