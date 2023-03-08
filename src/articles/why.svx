@@ -8,7 +8,7 @@ draft: true
 tags:
   - articles
 categories: ""
-lastmod: 2023-03-07T19:35:29.406Z
+lastmod: 2023-03-08T19:46:51.080Z
 ---
 <hr />
 
@@ -16,18 +16,50 @@ lastmod: 2023-03-07T19:35:29.406Z
 
 <hr />
 
-I have been thinking a lot about this and there are a number of reasons that I believe we need a bible MMO. 
+I have been thinking a lot about this and there are a number of reasons that I
+believe we need a bible MMO. It could change the lives of many - be they
+Christians who have never really studied the Bible, or unbelievers who don't
+know what the TRUE gospel is.
 
 # Outreach
 
-The obvious first answer is outreach. There is a large population of gamers out there that completely dismiss Christianity as a whole because the traditional teachings don't make any sense. 
+The obvious first answer is outreach. There is a large population of gamers out
+there that completely dismiss Christianity as a whole because the traditional
+teachings don't make any sense. 
 
-This is primarily the reason WE (as [Spirit and Truth](https://spiritandtruthonline.org/)) should be the ones to create this game. So many people out there have never heard the unadulterated TRUTH of scripture. The fact that it actually makes sense if you take out all the extra baggage that the majority of the churches of today put on it.
+This is primarily the reason WE (as [Spirit and
+Truth](https://spiritandtruthonline.org/)) should be the ones to create this
+game. So many people out there have never heard the unadulterated TRUTH of
+scripture. The fact that it actually makes sense if you take out all the extra
+baggage that the majority of the churches of today put on it.
 
-With that in mind I would like to make this game sly as a serpent in that we will call it *__The Book__*. (That's what Bible _means_ after all). The story is that you, as the player, are sucked into a book and must find your way out by traveling through the lands it describes. I'll talk more on this later but it really is an exciting idea!
+With that in mind I would like to make this game sly as a serpent in that we
+will call it *__The Book__*. (That's what Bible _means_ after all). The story is
+that you, as the player, are sucked into a book and must find your way out by
+traveling through the lands it describes. I'll talk more on this later but it
+really is an exciting idea!
 
 # Research
 
-Let's face it - reading can get tedious. There is a reason that games are popular and that is that they are FUN! I have watched my wife help our kids with their homework enough to know that if you can make learning fun you can do it for much longer and retain the information much better. If we can port this to the bible then it will benefit everyone!
+Let's face it - reading can get tedious. There is a reason that games are
+popular and that is that they are FUN! I have watched my wife help our kids with
+their homework enough to know that if you can make learning fun you can do it
+for much longer and retain the information much better. If we can port this to
+the bible then it will benefit everyone!
 
-Imagine you want to study the wilderness that the Israelites walked through. You could look through countless Bible Atlases and get some idea of the kind of area they walked, or you could log in and walk the path __WITH__ them!
+Imagine you want to study the wilderness that the Israelites walked through. You
+could look through countless Bible Atlases and get some idea of the kind of area
+they walked, or you could log in and walk the path __WITH__ them!
+
+# Motivation
+
+Finally I believe the reason it is needed is there is a general lack of
+motivation for studying God's Word. Motivating people is one of the major keys
+to good games - motivating them to play time and time again. I don't want to
+make a game to replace the Bible, but I want to make a game that makes people
+want to read the Bible as a strategy guide. 
+
+There are so many intangible benefits to having God's word stored in your heart
+that is lost on so many people. If we can only get people to stop and understand
+the good that studying can do for their lives... It gives me joy just to think
+about it.

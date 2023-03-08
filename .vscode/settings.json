@@ -19,7 +19,7 @@
 		"editor.lineNumbers": "off",
 		"editor.minimap.enabled": false
 	},
-	"cSpell.words": ["lastmod"],
+	"cSpell.words": ["lastmod", "pojoaque"],
 	"cSpell.enableFiletypes": ["svelte", "svx"],
 	"cSpell.language": "en,en-US"
 }

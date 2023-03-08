@@ -11,4 +11,8 @@ main {
 	max-width: 100rem;
 }
 
+ul li {
+	list-style-type: none;
+}
+
 @import url(prism-pojoaque.css);

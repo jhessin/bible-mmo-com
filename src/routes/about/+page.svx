@@ -6,6 +6,22 @@ title: About Bible MMO
 	<title>BibleMMO: About</title>
 </svelte:head>
 
-# Hi, I'm Jim!
+# Hi, I'm Jim Hessin
 
-This is my about page.
+I am a stay at home dad, a programmer, a husband, and a Christian. Not
+necessarily in that order. I have always had a good understanding of computers
+and technology since I was a little kid programming the VCR (remember those). I
+have been feeling God call me to be a witness to the software development and
+gaming communities for a while now.
+
+I identify as a programmer though I have never had a job involving that. This is
+primarily because of where I live and the situation I find myself in. I live in
+rural Nebraska and I have a severely autistic child (or a child with severe
+autism depending on your preferred terminology). He requires constant
+supervision and there simply isn't adequate child care provided by the community
+and my other two children are to small to take care of him. Therefore either my
+wife or I need to stay home with him. 
+
+All that is to say that I don't have a ton of experience. Nevertheless I love
+programming and continue to dabble in different languages. I want to make a
+community for similar individuals to meet, swap coding tips, and praise the Lord!

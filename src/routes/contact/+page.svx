@@ -2,6 +2,15 @@
 	<title>BibleMMO: Contact</title>
 </svelte:head>
 
-# Get in touch!
+# Contact Us
 
-[Jim Hessin](mailto:jhessin@gmail.com)
+Right now it's just me, but I hope to have others join in this endeavour. The
+more talent we have the better.
+
+- [Jim Hessin](mailto:jhessin@gmail.com)
+
+<style>
+	ul li {
+		list-style-type: none;
+	}
+</style>
