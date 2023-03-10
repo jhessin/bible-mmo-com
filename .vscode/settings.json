@@ -5,7 +5,8 @@
 		"build": true,
 		".svelte-kit": true,
 		"package": true,
-		"**/.env": true,
+		"**/.env": false,
+		"*-lock.yaml": true,
 		"**/.env.*": true,
 		"**/.env.example": false,
 		"**/vite.config.js.timestamp-*": true,
@@ -19,7 +20,7 @@
 		"editor.lineNumbers": "off",
 		"editor.minimap.enabled": false
 	},
-	"cSpell.words": ["lastmod", "pojoaque"],
+	"cSpell.words": ["lastmod", "oopxhoqeymuirleysgwc", "pojoaque"],
 	"cSpell.enableFiletypes": ["svelte", "svx"],
 	"cSpell.language": "en,en-US"
 }
