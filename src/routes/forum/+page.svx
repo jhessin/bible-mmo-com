@@ -1,0 +1,12 @@
+<script lang='ts'>
+	import type { PageServerData } from './$types';
+	export let data: PageServerData;
+	let { countries } = data;
+	$: ({ countries } = data);
+</script>
+
+{#each countries as country}
+
+- {country.name}
+
+{/each}

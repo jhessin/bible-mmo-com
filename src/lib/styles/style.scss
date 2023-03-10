@@ -16,3 +16,10 @@ ul li {
 }
 
 @import url(prism-pojoaque.css);
+
+a:link,
+a:visited,
+a:active {
+	text-decoration: none;
+	color: rgb(193, 206, 248);
+}
