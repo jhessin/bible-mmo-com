@@ -9,8 +9,8 @@ export const load = (async ({locals: {supabase, getSession}}) => {
 	}
 
 	const {data: profile} = await supabase
-		.from('profiles')
-		.select(`username, full_name, website, avatar_url`)
+		.from('user_accounts')
+		.select(`email, first_name, last_name`)
 		.eq('id', session.user.id)
 		.single();
 
@@ -20,42 +20,43 @@ export const load = (async ({locals: {supabase, getSession}}) => {
 export const actions: Actions = {
 	update: async ({request, locals: {supabase, getSession}}) => {
 		const formData = await request.formData();
-		const fullName = formData.get('fullName') as string;
-		const username = formData.get('username') as string;
-		const website = formData.get('website') as string;
-		const avatarUrl = formData.get('avatarUrl') as string;
+		const first_name = formData.get('first_name') as string;
+		const last_name = formData.get('last_name') as string;
 
 		const session = await getSession();
+		if (!session || !session.user.email) {
+			return fail(500, {
+				first_name,
+				last_name,
+			});
+		}
 
-		const {error} = await supabase.from('profiles').upsert({
-			id: session?.user.id,
-			full_name: fullName,
-			username,
-			website,
-			avatar_url: avatarUrl,
-			updated_at: new Date(),
+		const {error} = await supabase.from('user_accounts').upsert({
+			id: session.user.id,
+			email: session.user.email,
+			first_name,
+			last_name,
+			updated_at: new Date().toString(),
 		});
 
 		if (error) {
 			return fail(500, {
-				fullName,
-				username,
-				website,
-				avatarUrl,
+				first_name,
+				last_name,
 			});
 		}
 
 		return {
-			fullName,
-			username,
-			website,
-			avatarUrl,
+			first_name,
+			last_name,
 		};
 	},
 	signout: async ({locals: {supabase, getSession}}) => {
 		const session = await getSession();
 		if (session) {
 			await supabase.auth.signOut();
+			throw redirect(303, '/');
+		} else {
 			throw redirect(303, '/');
 		}
 	},
